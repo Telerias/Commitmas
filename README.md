@@ -8,7 +8,7 @@ Update 12-22
  - Commited a new Powershell snippet
  - Learning Markdown
  
-    This should be a code block, why won't it change!
+    print("hellow world");
 
 If you want your page to validate under XHTML 1.0 Strict,
 you've got to put paragraph tags in your blockquotes:
