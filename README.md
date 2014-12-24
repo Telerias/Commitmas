@@ -16,3 +16,5 @@ Update 12-23
  - Edited a repository README file on Windows and commited
  - Pulled changed repository from GitHub to local via command line
 
+Update 12-24
+ - Little done so far, busy day.  Plan is to fork a repository
