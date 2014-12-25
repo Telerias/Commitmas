@@ -18,3 +18,8 @@ Update 12-23
 
 Update 12-24
  - Little done so far, busy day.  Plan is to fork a repository
+
+ Update 12-25
+  - Merry Christmas for Commitmas
+  - Cloned a repository using Windows Git client
+  
