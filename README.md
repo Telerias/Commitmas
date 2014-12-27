@@ -23,3 +23,6 @@ Update 12-24
   - Merry Christmas for Commitmas
   - Cloned a repository using Windows Git client
   
+Update 12-26
+ - New Day, new things
+ 
