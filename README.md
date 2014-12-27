@@ -3,7 +3,7 @@ Commitmas
 
 My take on Commitmas 2014
 
-== Update 12-22
+## Update 12-22
  - Created a new repository for Powershell snippets (on GitHub)
  - Commited a new Powershell snippet (on GitHub)
  - Learning Markdown for better documentation
