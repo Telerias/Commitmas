@@ -32,4 +32,7 @@ My take on Commitmas 2014
 
 ## Update 12-28
  - No changes today.  Sick and feeling poor.  Did some reading, hope to do more tomorrow
+ 
+## Update 12-29
+ - Git Fetch / Push to update my fork of the master 12 days of commitmas thanks to the great articles by @rnelson0
  - 
