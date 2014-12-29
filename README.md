@@ -29,3 +29,7 @@ My take on Commitmas 2014
 ## Update 12-27
  - Git clone and fork are a pain!
  - 
+
+## Update 12-28
+ - No changes today.  Sick and feeling poor.  Did some reading, hope to do more tomorrow
+ - 
