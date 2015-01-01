@@ -36,3 +36,11 @@ My take on Commitmas 2014
 ## Update 12-29
  - Git Fetch / Push to update my fork of the master 12 days of commitmas thanks to the great articles by @rnelson0
  - 
+
+## No update 12-30
+
+## Update 12-31
+ - working on getting the push/pull/fetch commands down so I remember them, and how they are used
+ - worked on my python repository, created a "hello world" program
+ 
+ 
