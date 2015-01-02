@@ -43,4 +43,5 @@ My take on Commitmas 2014
  - working on getting the push/pull/fetch commands down so I remember them, and how they are used
  - worked on my python repository, created a "hello world" program
  
- 
+ ## Update 1-1
+ - Final Day of #Commitmas and I've learned quite a bit
